@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Darklord Eveningstar",
+    "attribute": "DARK",
+    "race": "Fairy",
+    "level": 12,
+    "type": "Fusion Monster"
+  },
+  {
+    "name": "Patissciel Couverture",
+    "attribute": "DARK",
+    "race": "Fairy",
+    "level": 5,
+    "type": "Pendulum Effect Fusion Monster"
+  },
+  {
+    "name": "The Executor of the Underworld - Pluto",
+    "attribute": "DARK",
+    "race": "Fairy",
+    "level": 5,
+    "type": "Synchro Tuner Monster"
+  },
+  {
+    "name": "The First Darklord",
+    "attribute": "DARK",
+    "race": "Fairy",
+    "level": 12,
+    "type": "Fusion Monster"
+  },
+  {
+    "name": "Timelord Progenitor Vorpgate",
+    "attribute": "DARK",
+    "race": "Fairy",
+    "level": 10,
+    "type": "Synchro Monster"
+  },
+  {
+    "name": "Vicious Astraloud",
+    "attribute": "DARK",
+    "race": "Fairy",
+    "level": 8,
+    "type": "Fusion Monster"
+  }
+]
